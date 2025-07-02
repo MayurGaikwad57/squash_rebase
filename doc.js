@@ -1,0 +1,1 @@
+console.log("Champion Team is never afraid of results")
