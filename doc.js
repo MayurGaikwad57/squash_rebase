@@ -1,1 +1,1 @@
-console.log("Champion Team is never afraid of results")
+console.log("You are the best")
