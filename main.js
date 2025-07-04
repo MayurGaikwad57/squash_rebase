@@ -1,2 +1,2 @@
-console.log("ANikta is the best")
-console.log("Shashikant is the best")
+console.log("Mayur is the best")
+console.log("Jagdish is the best")
